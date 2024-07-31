@@ -4,7 +4,7 @@
 */
 
 import java.util.Scanner;
-class Git6
+class Grades
 {
 	public static void main(String[] args) 
 	{
