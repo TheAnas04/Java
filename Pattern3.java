@@ -16,6 +16,7 @@ class Pattern3 {
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
